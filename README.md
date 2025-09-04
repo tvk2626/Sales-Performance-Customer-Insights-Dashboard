@@ -3,7 +3,6 @@
 This project takes retail sales and customer data to uncover insights into performance, trends, and customer behavior across regions and develop a dynamic dashboard.It demonstrates data preparation,  advanced DAX, and interactive dashboarding for executive-level decision-making.
 
 ## Dataset overview
-**Source:** Kaggle
 
 Key fields:
 
