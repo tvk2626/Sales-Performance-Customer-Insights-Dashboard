@@ -14,7 +14,7 @@ Key fields:
 * **Location**: Region, State, City, Postal Code
 
 ## Tools & Techniques Used
-* **Power BI** - DAX,Slicers,Visualizations
+* **Power BI** - DAX,Slicers,Visualizations,Row level security
 * **Power Query** – Data Cleaning & Transformation
 * **Excel/CSV** – Data Source
 
